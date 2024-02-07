@@ -9,3 +9,4 @@ Quick dating the lib:
 - **🤝🏻 comapitble with the native packages?**  
     sqlx leaves the underlying interfaces untouched and just superset on the standard ones
   
+Profile Picture can be found here: https://github.com/MariaLetta/free-gophers-pack/blob/master/characters/png/31.png
